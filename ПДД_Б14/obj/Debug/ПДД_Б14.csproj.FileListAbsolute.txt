@@ -1,0 +1,14 @@
+C:\Users\trofi\source\repos\ПДД_Б14\ПДД_Б14\bin\Debug\pdd.mdf
+C:\Users\trofi\source\repos\ПДД_Б14\ПДД_Б14\bin\Debug\pdd_log.ldf
+C:\Users\trofi\source\repos\ПДД_Б14\ПДД_Б14\bin\Debug\ПДД_Б14.exe.config
+C:\Users\trofi\source\repos\ПДД_Б14\ПДД_Б14\bin\Debug\ПДД_Б14.exe
+C:\Users\trofi\source\repos\ПДД_Б14\ПДД_Б14\bin\Debug\ПДД_Б14.pdb
+C:\Users\trofi\source\repos\ПДД_Б14\ПДД_Б14\obj\Debug\ПДД_Б14.csprojAssemblyReference.cache
+C:\Users\trofi\source\repos\ПДД_Б14\ПДД_Б14\obj\Debug\ПДД_Б14.Form1.resources
+C:\Users\trofi\source\repos\ПДД_Б14\ПДД_Б14\obj\Debug\ПДД_Б14.Properties.Resources.resources
+C:\Users\trofi\source\repos\ПДД_Б14\ПДД_Б14\obj\Debug\ПДД_Б14.csproj.GenerateResource.cache
+C:\Users\trofi\source\repos\ПДД_Б14\ПДД_Б14\obj\Debug\ПДД_Б14.csproj.CoreCompileInputs.cache
+C:\Users\trofi\source\repos\ПДД_Б14\ПДД_Б14\obj\Debug\ПДД_Б14.exe
+C:\Users\trofi\source\repos\ПДД_Б14\ПДД_Б14\obj\Debug\ПДД_Б14.pdb
+C:\Users\trofi\source\repos\ПДД_Б14\ПДД_Б14\obj\Debug\ПДД_Б14.Form2.resources
+C:\Users\trofi\source\repos\ПДД_Б14\ПДД_Б14\obj\Debug\ПДД_Б14.Form3.resources
